@@ -1,0 +1,2 @@
+punto: 5 comentario: Es una buena pelicula 
+punto: 2 comentario: es una mala pelicula 
